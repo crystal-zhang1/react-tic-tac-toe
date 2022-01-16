@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import ReactDOM from "react-dom";
 import "./tic-tac-toe.css";
 import renderRestartButton from "./restart";
 import renderBlock from "./block";

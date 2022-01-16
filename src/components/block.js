@@ -1,4 +1,4 @@
-import { render } from "@testing-library/react";
+import './block.css';
 
 function Block({ value, onClick }) {
   return (
